@@ -1,4 +1,6 @@
 # bungacans
+Bunga Anggi Safitri 
+npm : 085018011
 ------------------------ PROFIL---------------------
 import 'package:flutter/material.dart';
 
